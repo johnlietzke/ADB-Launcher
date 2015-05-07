@@ -1,5 +1,5 @@
 # ADB-Launcher
-Mac Only!
+Mac Only!  For Android devices running KitKat 4.4 or XE22.
 
 The purpose of this build is to streamline the registration of USB and WiFi connected Android devices to the Android Debug Bridge --> (ADB).  It is designed to be an all in one, lightweight, ready to use setup to quickly register and allow commandline input for ADB through the terminal application. 
 
